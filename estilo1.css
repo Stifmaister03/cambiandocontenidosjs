@@ -1,0 +1,25 @@
+* {
+	margin:5;
+	padding:5;        
+}
+h1 {
+	text-align: center;
+	color: ELEGIRCOLOR;    
+}
+body {
+	background:ELEGIRCOLOR;  
+}
+h4,p {
+	color:ELEGIRCOLOR;   
+}
+#two {
+	background-color: #60899f;
+}
+#one {
+	background-color: #4682B4;
+	width: 100%;
+}
+body {
+	background-color: #B0C4DE;
+}
+
